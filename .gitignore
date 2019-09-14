@@ -1,0 +1,51 @@
+### Hugo generated files ###
+/hugo
+docs/public*
+/public/
+/resources/_gen/
+
+
+### Compiled object files ###
+*.0
+*.a
+*.so
+
+
+### Executables ###
+*.exe
+hugo.darwin
+hugo.linux
+
+
+### Linux ###
+*~
+.fuse_hidden*
+.Trash-*
+.nfs*
+
+
+### MacOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+.apdisk
+.AppleDB
+.AppleDesktop
+/.idea
+
+
+### Windows ###
+Thumbs.db
+ehthumbs.db
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+Desktop.ini
+
+
+### Vim ###
+*.swp
